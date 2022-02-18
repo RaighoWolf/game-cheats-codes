@@ -1,0 +1,6 @@
+gametitle=Rumble Racing [SLUS-20174]
+comment=Cheats/Patches made By Raigho
+
+//No Interlacing
+patch=1,EE,00100A64,extended,30420000
+patch=1,EE,00100A88,extended,30440000

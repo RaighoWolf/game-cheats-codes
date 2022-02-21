@@ -1,0 +1,6 @@
+gametitle=Naruto Shippuden: Ultimate Ninja 5 [SLES-55605]
+comment=Cheats/Patches made By Raigho
+
+//No Outline
+patch=1,EE,001C9098,word,00000000
+patch=1,EE,001C90A8,word,00000000

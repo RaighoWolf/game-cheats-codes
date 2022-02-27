@@ -1,0 +1,5 @@
+gametitle=The Legend of Spyro: Dawn of the Dragon [SLUS-21820]
+comment=Cheats/Patches made By Raigho
+
+//Disable Bloom
+patch=1,EE,006628BC,word,00000000

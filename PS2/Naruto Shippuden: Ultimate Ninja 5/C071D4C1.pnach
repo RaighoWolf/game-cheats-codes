@@ -4,3 +4,7 @@ comment=Cheats/Patches made By Raigho
 //No Outline
 patch=1,EE,001C9098,word,00000000
 patch=1,EE,001C90A8,word,00000000
+
+//Disable Bloom
+patch=1,EE,001CE804,word,00000000
+patch=1,EE,001CE900,word,DE860000

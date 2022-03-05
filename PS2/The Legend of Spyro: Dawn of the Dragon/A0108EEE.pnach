@@ -3,3 +3,6 @@ comment=Cheats/Patches made By Raigho
 
 //Disable Bloom
 patch=1,EE,006628BC,word,00000000
+
+//Nice amount of Bloom
+//patch=1,EE,006628BC,word,3E3851EC

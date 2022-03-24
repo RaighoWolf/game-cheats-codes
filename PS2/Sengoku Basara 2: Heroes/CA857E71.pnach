@@ -1,0 +1,5 @@
+gametitle=Sengoku Basara 2: Heroes [SLPM-66848]
+comment=Cheats/Patches made By Raigho
+
+//Disable Bloom
+patch=1,EE,004CEB52,byte,0

@@ -1,0 +1,11 @@
+gametitle=Demon Chaos [SLES-54305]
+comment=Cheats/Patches made By Raigho
+
+//Disable Bloom
+patch=1,EE,00244924,byte,0
+
+//25% Bloom Strength
+patch=1,EE,00244924,byte,20
+
+//50% Bloom Strength
+patch=1,EE,00244924,byte,40

@@ -3,3 +3,6 @@ comment=Cheats/Patches made By Raigho
 
 //Disable Bloom
 patch=1,EE,004CEB52,byte,0
+
+//Disable Tonemap
+patch=1,EE,001A9170,word,8E020000

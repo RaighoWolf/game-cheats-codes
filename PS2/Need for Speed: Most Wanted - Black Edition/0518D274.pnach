@@ -1,0 +1,8 @@
+gametitle=Need for Speed: Most Wanted - Black Edition [SLUS-21351]
+comment=Cheats/Patches made By Raigho
+
+//Disable Sun
+patch=1,EE,00386D04,word,C4000000
+
+//Disable Yellow Filter
+patch=1,EE,0040A500,word,C4000000
